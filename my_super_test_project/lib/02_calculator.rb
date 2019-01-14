@@ -26,7 +26,7 @@ def factorial(a)
 		a-=1
 		fact = fact*(a)
 	end
-	fact
+	return fact
 end
 
 
